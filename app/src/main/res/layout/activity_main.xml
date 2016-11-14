@@ -1,0 +1,7 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.suncheng.mvpdemo.ui.view.MainView
+        android:id="@+id/main_view"
+        style="@style/both_match_style" />
+
+</merge>
